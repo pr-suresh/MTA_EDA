@@ -1,0 +1,12 @@
+Which location in NYC is a good place to start a new coffee shop? 
+
+Springtown coffee wants to add new locations to their store and want to leverage the MTA turnstile data to find where there are more passengers. I will be exploring the MTA foot traffic data in different locations to find the best possible spot for starting the coffee shop.
+I will be using 4 months of data which covers different seasons to see if traffic pattern changes based on weather. Usually certain times of the year like the end of year holiday season tends to be more crowded as people are busy shopping. This data is helpful to plan the size of the coffee shop and number of employees to hire based on customer demand.
+
+
+
+Tools to be used:
+SQL for creating tables and retrieving data
+Pandas for data cleaning, analysis
+Matplotlib/Seaborn for data visualization
+
