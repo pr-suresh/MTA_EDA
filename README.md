@@ -10,8 +10,10 @@ In order to find the best spot for a coffee store there are multiple things to b
 To explore the data for possible options, I imported the data from MTA website for the months of Sep 2020, Dec 2020, Mar 2021, June 2021 and did some cleaning of the data by removing duplicate rows and calculating actual entries and exits from the cumulative values in the raw data set.
 
 ## Tools 
-SQLAlchemy for creating tables and retrieving data 
+SQLAlchemy for creating tables and retrieving data
+
 NumPy and Pandas for data cleaning, analysis 
+
 Matplotlib and Seaborn for data visualization
 
 ## Communication 
